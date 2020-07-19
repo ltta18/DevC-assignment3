@@ -10,4 +10,4 @@ Features 🎯🥇🏆
 [ ] User can see prompt indicating who won the round
 
 Demo: 
-[https://media.giphy.com/media/Vzx4h4cRtXHIGVIgtJ/giphy.gif]
+[![Demo video](https://giphy.com/embed/Vzx4h4cRtXHIGVIgtJ)]
