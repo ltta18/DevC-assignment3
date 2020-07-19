@@ -9,5 +9,4 @@ Features 🎯🥇🏆
 - User can see text of computer's selection
 - User can see prompt indicating who won the round
 
-Demo: 
-[![](https://giphy.com/embed/Vzx4h4cRtXHIGVIgtJ)]
+Demo: https://giphy.com/embed/Vzx4h4cRtXHIGVIgtJ
